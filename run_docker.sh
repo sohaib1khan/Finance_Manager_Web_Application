@@ -22,6 +22,8 @@ COPY . /app
 
 # Install any necessary dependencies
 RUN pip install --no-cache-dir flask
+RUN pip install --no-cache-dir flask_simplelogin
+RUN pip install --no-cache-dir python-dotenv
 
 # Expose the specified port
 EXPOSE $PORT
