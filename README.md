@@ -85,7 +85,7 @@ The script will output the IP address and port where you can access the web inte
 http://<your-ip-address>:5005
 ```
 
-Default username and Password can be in thw `data/user.json` file. 
+Default username and password can be in changed in the following  `data/user.json`  file. 
 
 ```
     "username": "admin",
