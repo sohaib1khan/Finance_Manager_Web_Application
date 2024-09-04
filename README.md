@@ -1,10 +1,10 @@
 # Finance Manager Web Application
 
-This is a simple web application built with Flask that allows users to manage their finances. The app supports adding, editing, and removing monthly goals and expenses, and displays the data in a user-friendly interface with scrollable tables.
+This is a simple web application built with Flask that allows users to manage their finances. The app supports adding, editing, and removing monthly goals and expenses and displays the data in a user-friendly interface with scrollable tables.
 
 ## Project Structure
 
-```plaintext
+```
 .
 ├── app.py                       # Main Flask application
 ├── data/
@@ -17,6 +17,8 @@ This is a simple web application built with Flask that allows users to manage th
     ├── edit_expense.html        # Template for editing expense entries
     ├── edit_month.html          # Template for editing monthly goals
     └── index.html               # Main template for viewing and managing data
+
+```
 
 ## Features
 
@@ -44,7 +46,7 @@ cd finance-manager
 
 ```
 
-2. **Install required Python packages:**
+&nbsp; 2. **Install required Python packages:**
 
 Run the following command to install Flask:
 
@@ -52,7 +54,7 @@ Run the following command to install Flask:
 pip install flask
 ```
 
-3. **Run the Flask application:**
+&nbsp;3. **Run the Flask application:**
 
 You can run the Flask application directly using the provided bash script:
 
@@ -60,13 +62,14 @@ You can run the Flask application directly using the provided bash script:
 ./run_flask.sh
 ```
 
-- This will start the Flask application locally on `http://127.0.0.1:5005`.
+This will start the Flask application locally on `http://127.0.0.1:5005`.
 
 ### Running with Docker
 
-- **Build and run the Docker container:**
-
-Use the provided bash script to build the Docker image and run the container:
+1.  **Build and run the Docker container:**
+    
+    Use the provided bash script to build the Docker image and run the container:
+    
 
 ```
 ./run_docker.sh
@@ -74,7 +77,7 @@ Use the provided bash script to build the Docker image and run the container:
 
 This will build the Docker image, start the container, and the app will be accessible at `http://<your-ip-address>:5005`.
 
-- **Accessing the Application:**
+&nbsp; 2. **Accessing the Application:**
 
 The script will output the IP address and port where you can access the web interface. Typically, this would be:
 
