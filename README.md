@@ -95,3 +95,7 @@ http://<your-ip-address>:5005
 
 - **CSS Styling:** The application's styles are defined in `static/style.css`. You can modify this file to change the appearance of the application.
 - **Templates:** The HTML templates are stored in the `templates/` directory. You can modify these templates to change the layout or add new features.
+
+
+### Screenshot: 
+![Demo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/img/Screenshot%202024-09-04%20at%2000-27-38%20Finance%20Manager.png)
