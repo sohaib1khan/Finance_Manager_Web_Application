@@ -41,7 +41,7 @@ This is a simple web application built with Flask that allows users to manage th
 1.  **Clone the repository:**
 
 ```
-git clone https://github.com/yourusername/finance-manager.git
+git clone https://github.com/sohaib1khan/Finance_Manager_Web_Application.git
 cd finance-manager
 
 ```
