@@ -85,6 +85,15 @@ The script will output the IP address and port where you can access the web inte
 http://<your-ip-address>:5005
 ```
 
+Default username and Password can be in thw `data/user.json` file. 
+
+```
+    "username": "admin",
+    "password": "password123"
+
+```
+
+
 ### Managing Data
 
 - **Adding Data:** You can add monthly goals, results, and expenses using the forms provided in the web interface.
