@@ -109,7 +109,8 @@ Default username and password can be in changed in the following  `data/user.jso
 ### Screenshot: 
 
 **Login Page:**
-![Login]([https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/img/Login.png](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Docker/img/Login.png)
+![Login](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Docker/img/Login.png)
 &nbsp; 
+
 **Demo Page:**
 ![Demo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Docker/img/Screenshot%202024-09-04%20at%2000-27-38%20Finance%20Manager.png)
