@@ -186,4 +186,14 @@ Default username and password can be in changed in the following  `data/user.jso
     "password": "password123"
 
 ```
-![Demo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Kubernetes/img/Finance_Manage.gif)
+![gifDemo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Kubernetes/img/Finance_Manage.gif)
+
+&nbsp;
+
+![Login](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Kubernetes/img/Login.png)
+
+
+&nbsp;
+
+![Demo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Kubernetes/img/Screenshot%202024-09-04%20at%2000-27-38%20Finance%20Manager.png)
+
