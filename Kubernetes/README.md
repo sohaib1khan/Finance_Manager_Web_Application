@@ -13,6 +13,7 @@ This project is a Python-based web application that helps manage finances. The a
   - [`run_flask.sh`:](#run_flasksh)
   - [`k8s_run.sh`:](#k8s_runsh)
 - [Developing While Deploying](#developing-while-deploying)
+- [Accessing the Application](#accessing-the-application)
 
 * * *
 
@@ -167,3 +168,22 @@ skaffold dev
 &nbsp;
 
 This project setup allows you to easily develop and deploy a Python-based web app on Kubernetes. Whether you're running the app locally for quick tests or deploying it on a Kubernetes cluster with Skaffold, the provided bash scripts and configuration files make it simple to manage the entire process.
+
+
+
+## Accessing the Application:
+
+The script will output the IP address and port where you can access the web interface. Typically, this would be:
+
+```
+http://<your-ip-address>:5005
+```
+
+Default username and password can be in changed in the following  `data/user.json`  file. 
+
+```
+    "username": "admin",
+    "password": "password123"
+
+```
+
