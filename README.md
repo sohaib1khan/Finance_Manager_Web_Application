@@ -79,3 +79,12 @@ You have two options for deploying and running the Finance Manager Web Applicati
 - Use **Kubernetes** for cloud-native deployment with continuous development capabilities via **Skaffold**.
 
 Choose the appropriate method based on your use case and follow the corresponding instructions for a seamless setup.
+
+
+
+### Demo 
+
+![Demo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Kubernetes/img/Finance_Manage.gif)
+
+
+
