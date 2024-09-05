@@ -186,4 +186,4 @@ Default username and password can be in changed in the following  `data/user.jso
     "password": "password123"
 
 ```
-
+![Demo](https://github.com/sohaib1khan/Finance_Manager_Web_Application/blob/main/Kubernetes/img/Finance_Manage.gif)
