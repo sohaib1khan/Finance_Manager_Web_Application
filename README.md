@@ -73,10 +73,11 @@ For more detailed instructions on setting up the app with Kubernetes, refer to t
 
 * * *
 
-You have two options for deploying and running the Finance Manager Web Application:
+You can deploy and develop the **Finance Manager Web Application**  technically in **Three** ways:
 
-- Use **Docker** for quick, containerized local development.
-- Use **Kubernetes** for cloud-native deployment with continuous development capabilities via **Skaffold**.
+- **Docker** for local development and testing.
+- **Kubernetes** for cloud-native deployment and continuous development with Skaffold.
+- **Manually deployment** by calling the `app.py` script directly with python
 
 Choose the appropriate method based on your use case and follow the corresponding instructions for a seamless setup.
 
